@@ -5,6 +5,6 @@ This repository contains codes for:
   - shc_size_migration: generates size of Soil Health Card dataframe.
   - transfer_multi: transfers all files from one bucket to another using multiprocessing.
     - Run this code on SageMaker if session required is more than an hour.
-- the processing of Farmpulse data and classification of queries into their respective queries, as edited from Michael Barber's SH-P3 codes.
+- the processing of Farmpulse data and classification of queries according to their respective labels, as edited from Michael Barber's SH-P3 codes.
   - data_improv_edited: edited Michael's dataimprov notebook to download Farmpulse data from SQL and replace deprecated code.
   - FarmPulse_ETL_edited.py: edited Michael's FarmPulse_ETL Python script to download Farmpulse data from SQL.
